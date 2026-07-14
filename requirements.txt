@@ -1,2 +1,2 @@
 python-telegram-bot[job-queue]==20.8
-mcrcon==0.7.1
+mcrcon==0.7.0
